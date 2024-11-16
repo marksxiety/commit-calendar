@@ -1,5 +1,5 @@
 <template>
-  <main class="font-sans p-4">
+  <main class="font-sans p-4 grid place-items-center min-h-screen">
     <Home />
   </main>
 </template>
